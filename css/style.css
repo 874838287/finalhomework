@@ -1,0 +1,13 @@
+body {
+	color: yellow;
+	background-color: #000;
+	font-family: "方正胖头鱼简体";
+	font-size: 48pt ;
+}
+p {
+	text-align:center;
+	color:black ;
+}
+p.rowtwo {
+	color: cyan;
+}
